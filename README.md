@@ -4,4 +4,4 @@
 
 本读书笔记对书中关于代码规范及思想进行了要点总结，以便于参考和查看。<br/>
 原书最大的作用就是如何进行代码命名，也是本读书笔记的第一部分内容。<br/><br/>
-阅读本书：[https://www.gitbook.com/read/book/helloiamkitty/the-art-of-readable-code/content/](https://www.gitbook.com/read/book/helloiamkitty/the-art-of-readable-code/content/)<br/>
+阅读本书：[https://helloiamkitty.gitbooks.io/the-art-of-readable-code/content/](https://helloiamkitty.gitbooks.io/the-art-of-readable-code/content/)<br/>
